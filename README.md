@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Aayush Thorat and I'm a ..., from ....</h3>
+<h3 align="left">My name is Aayush Thorat, and I'm a final-year ENTC student with an Honors in AIML from India.</h3>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I'm a final-year Electronics & Telecommunication Engineering student at PICT, pursuing an Honors Degree in AI & ML. I enjoy building scalable web applications, interactive UIs, and automation tools that improve reliability and user experience.
+
+I’ve interned as an SDE at Bajaj Finserv and as a Web Developer at Zymo, working with technologies like React.js, JavaScript, Python, Three.js, and GSAP. I love exploring AI, system design, and clean, maintainable software.
+
+🚀 Always learning, always building.</p>
+<!-- <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p> -->
 
 ###
 
@@ -72,11 +77,17 @@
 
 ###
 
+<h2 align="left">Connect with Me</h2>
+
+###
+
 <div align="left">
   <a href="mailto:aayush.thorat27@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/aayush-kailas-thorat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
